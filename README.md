@@ -16,8 +16,6 @@ Sistema completo de gestão de atendimentos desenvolvido em Flutter, permitindo 
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Fluxo de Uso](#-fluxo-de-uso)
 - [Screenshots](#-screenshots)
-- [Desenvolvimento](#-desenvolvimento)
-- [Troubleshooting](#-troubleshooting)
 - [Autor](#-autor)
 
 ---
