@@ -524,14 +524,5 @@ Este projeto foi desenvolvido para fins acadêmicos.
 
 ## 👤 Autor
 
-**Trabalho Acadêmico - Disciplina de Flutter**
+**Alex Batista**
 
-📅 **Data de Apresentação**: 03/12/2024
-
----
-
-## 🎉 Agradecimentos
-
-Agradecimentos especiais ao professor e colegas de turma pelo suporte durante o desenvolvimento deste projeto.
-
----
