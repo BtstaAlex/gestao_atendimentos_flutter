@@ -448,63 +448,9 @@ Opções:
 └─────────────────────────────────┘
 
 
-## 🐛 Troubleshooting
 
-### Problema: Erro ao capturar imagem
 
-**Solução**: Verifique se as permissões estão configuradas corretamente no `AndroidManifest.xml` e `Info.plist`.
-
-```bash
-# Reinstalar o app após adicionar permissões
-flutter clean
-flutter run
 ```
-
-### Problema: Banco de dados não cria
-
-**Solução**: Desinstale o app do dispositivo e execute novamente.
-
-```bash
-# Desinstalar e reinstalar
-flutter clean
-flutter run
-```
-
-### Problema: Erro de build
-
-**Solução**: Limpe o cache e reinstale dependências.
-
-```bash
-flutter clean
-flutter pub get
-flutter run
-```
-
-### Problema: Imagem não aparece na visualização
-
-**Solução**: Verifique se o caminho da imagem está sendo salvo corretamente. O caminho deve ser absoluto.
-
----
-
-## 🎓 Conceitos Aprendidos
-
-Este projeto demonstra conhecimento em:
-
-- ✅ **Arquitetura em Camadas** (Clean Architecture)
-- ✅ **Gerenciamento de Estado** com Cubit/BLoC
-- ✅ **Persistência Local** com SQLite
-- ✅ **Captura de Mídia** (câmera e galeria)
-- ✅ **Injeção de Dependências** com GetIt
-- ✅ **CRUD Completo** (Create, Read, Update, Delete)
-- ✅ **Soft Delete** (exclusão lógica)
-- ✅ **Navegação** entre telas
-- ✅ **Validação** de formulários
-- ✅ **Tratamento de Erros**
-- ✅ **UI/UX** responsiva e intuitiva
-- ✅ **Máquina de Estados** (status do atendimento)
-
----
-
 ## 📚 Referências
 
 - [Flutter Documentation](https://docs.flutter.dev/)
